@@ -11,6 +11,9 @@ root.render(
   </React.StrictMode>
 );
 
+// Set the document title
+document.title = 'QuickPercentageSolver'; // Change to your desired title
+
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
