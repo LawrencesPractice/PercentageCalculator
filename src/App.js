@@ -46,6 +46,13 @@ function App() {
 
   return (
     <div className="App">
+          <head>
+  <script
+    async
+    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9194894797026673"
+    crossorigin="anonymous"
+  ></script>
+</head>
       <header className="header">
       <img src="/apple-touch-icon.png" alt="Apple Touch Icon" /> {/* Display the image */}        <h1>Quick Percentage Solver</h1>
       </header>
